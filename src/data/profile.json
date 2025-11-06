@@ -1,0 +1,23 @@
+{
+  "name": "Kantor Urusan Agama (KUA) Kecamatan Dungkek",
+  "shortName": "KUA Dungkek",
+  "address": "Jl. Raya Pesisir Dungkek, Kec. Dungkek, Kab. Sumenep, Jawa Timur 69474",
+  "phone": "+62 851-7843-1781",
+  "email": "kua.dungkek@kemenag.go.id",
+  "workingHours": "Senin - Kamis: 07.30 - 16.00, Jumat: 07.30 - 16.30, Istirahat: 12.00 - 13.30, Sabtu - Minggu: Libur",
+  "headOfOffice": "Drs. Ahmad Fauzi, M.Ag",
+  "description": "KUA Dungkek adalah unit pelaksana teknis Kementerian Agama di Kecamatan Dungkek yang melayani administrasi keagamaan Islam bagi masyarakat, meliputi layanan pernikahan, pembinaan syariah, dan layanan keagamaan lainnya.",
+  "services": [
+    "Pendaftaran dan pencatatan pernikahan",
+    "Khutbah Jum'at dan penceramah",
+    "Bimbingan masyarakat Islam (BIMAS)",
+    "Pengelolaan Zakat dan Wakaf",
+    "Konsultasi syariah",
+    "Sertifikat halal (rekomendasi)"
+  ],
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "youtube": "#"
+  }
+}

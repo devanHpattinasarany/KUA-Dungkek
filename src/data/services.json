@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Pendaftaran Nikah (SIMKAH)",
+    "description": "Sistem Informasi Manajemen Nikah untuk pendaftaran dan administrasi pernikahan secara online",
+    "icon": "Heart",
+    "externalLink": "https://simkah4.kemenag.go.id/",
+    "color": "primary"
+  },
+  {
+    "id": 2,
+    "title": "Quran Digital",
+    "description": "Akses Quran digital dengan terjemahan dan tafsir dari Kementerian Agama",
+    "icon": "BookOpen",
+    "externalLink": "https://quran.kemenag.go.id/",
+    "color": "secondary"
+  },
+  {
+    "id": 3,
+    "title": "Bimas Islam",
+    "description": "Layanan pembinaan syariah Islam dan informasi keagamaan",
+    "icon": "Building",
+    "externalLink": "https://bimasislam.kemenag.go.id/",
+    "color": "accent"
+  },
+  {
+    "id": 4,
+    "title": "Jaminan Produk Halal",
+    "description": "Informasi dan layanan sertifikasi halal produk makanan dan barang",
+    "icon": "Shield",
+    "externalLink": "https://halal.go.id/",
+    "color": "primary"
+  }
+]

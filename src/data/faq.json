@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Pernikahan",
+    "question": "Apa saja syarat untuk mendaftarkan pernikahan di KUA?",
+    "answer": "Syarat-syarat yang diperlukan: 1) Surat pengantar dari desa/kelurahan, 2) Akta kelahiran (KTP-el untuk yang sudah memiliki), 3) Pas foto 4x6 sebanyak 6 lembar (latar merah), 4) Surat keterangan belum pernah menikah dari desa, 5) Izin orang tua/wali bagi yang belum cukup umur, 6) Surat persetujuan calon pasangan, 7) Materai Rp 10.000 untuk pengesahan."
+  },
+  {
+    "id": 2,
+    "category": "Pernikahan",
+    "question": "Berapa biaya pendaftaran pernikahan di KUA?",
+    "answer": "Pendaftaran pernikahan di KUA tidak dipungut biaya (gratis) sesuai dengan ketentuan Kementerian Agama. Namun, jika meminta petugas nikah datang ke luar KUA, akan ada biaya transportasi sesuai jarak tempuh."
+  },
+  {
+    "id": 3,
+    "category": "Pernikahan",
+    "question": "Kapan saya harus mendaftarkan pernikahan?",
+    "answer": "Pendaftaran nikah sebaiknya dilakukan minimal 1 bulan sebelum tanggal pernikahan yang direncanakan. Pendaftaran paling lambat H-10 sebelum tanggal akad nikah untuk memungkinkan verifikasi data."
+  },
+  {
+    "id": 4,
+    "category": "Administrasi",
+    "question": "Bagaimana cara mendapatkan akta nikah yang hilang?",
+    "answer": "Untuk mendapatkan salinan akta nikah yang hilang: 1) Datang langsung ke KUA tempat menikah, 2) Bawa KTP-el dan KK, 3) Surat kehilangan dari kepolisian, 4) Mengisi formulir permohonan, 5) Membayar biaya administrasi sesuai ketentuan."
+  },
+  {
+    "id": 5,
+    "category": "Administrasi",
+    "question": "Apakah bisa mengubah nama pada akta nikah?",
+    "answer": "Perubahan nama pada akta nikah bisa dilakukan jika: 1) Ada kesalahan penulisan dari pihak KUA, 2) Memiliki akta pengadilan yang sah. Prosesnya dengan mengajukan permohonan ke KUA dilengkapi dengan dokumen pendukung."
+  },
+  {
+    "id": 6,
+    "category": "Layanan",
+    "question": "Jam berapa KUA Dungkek buka?",
+    "answer": "KUA Dungkek buka setiap hari Senin - Kamis pukul 08:00 - 15:00, dan hari Jumat pukul 08:00 - 11:30. Tutup pada hari Sabtu, Minggu, dan hari libur nasional."
+  },
+  {
+    "id": 7,
+    "category": "Layanan",
+    "question": "Apakah perlu janji temu sebelum datang ke KUA?",
+    "answer": "Untuk pendaftaran nikah dan layanan penting lainnya sangat disarankan membuat janji temu terlebih dahulu untuk memastikan petugas tersedia dan meminimalisir waktu tunggu."
+  },
+  {
+    "id": 8,
+    "category": "Pernikahan",
+    "question": "Apa yang harus dibawa pada hari akad nikah?",
+    "answer": "Pada hari akad nikah, siapkan: 1) Saksi nikah (2 orang untuk calon mempelai pria dan wanita), 2) Cincin nikah (jika ada), 3) Mahar/seserahan, 4) Busana nikah, 5) Dokumen asli yang sudah diverifikasi saat pendaftaran."
+  },
+  {
+    "id": 9,
+    "category": "Pernikahan",
+    "question": "Bisakah warga non-Muslim menggunakan layanan KUA?",
+    "answer": "KUA khusus melayani administrasi keagamaan Islam. Warga non-Muslim dapat menggunakan layanan catatan sipil di Kantor Kecamatan atau Dinas Kependudukan dan Catatan Sipil."
+  },
+  {
+    "id": 10,
+    "category": "Legalitas",
+    "question": "Apakah nikah siri bisa didaftarkan di KUA?",
+    "answer": "Nikah siri bisa didaftarkan (isbat nikah) di KUA dengan syarat: 1) Ada saksi yang bisa menguatkan, 2) Melengkapi dokumen yang diperlukan, 3) Proses sidang di Pengadilan Agama untuk mendapatkan kekuatan hukum."
+  }
+]
